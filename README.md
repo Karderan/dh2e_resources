@@ -3,7 +3,7 @@ Thanks Nosferaschu for his work.
 
 # Dark Heresy 2nd Edition resource pack
 To-Install use Link:
-https://raw.githubusercontent.com/Nosferaschu/dh2e_resources/main/module.json
+https://raw.githubusercontent.com/Karderan/dh2e_resources/main/module.json
 
 We switched to foundry and i am kind of an perfectionist so i added over 750 entrys from 4 rulebooks and we created some for ourselfs =)<p>
 
